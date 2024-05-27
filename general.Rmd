@@ -1,0 +1,43 @@
+---
+title: "General Recent News"
+description: General updates related to my work as a research assistant, such as attended conference or attedances at talks, are listed here. 
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+2024
+---
+
+# Coming Soon: 45th Annual Conference of the International School Psychology Association (ISPA)
+
+**Riga, Latvia**
+
+I will be presenting our [review on European emotion regulation questionnaires for children and adolescents](https://www.researchgate.net/publication/368661488_PREREGISTRATION_Comparing_Questionnaires_Assessing_Emotion_Regulation_in_Children_and_Adolescents_Validated_in_European_Countries_A_Narrative_Review) in a [short presentation|(https://2024.ispaweb.org/). 
+
+
+2023
+---
+
+# 17th Conference of the Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie und Psychologische Diagnostik (DPPD)
+
+**Salzburg, Austria**
+
+I presented a poster detailing our current progress in the FEEL-KJ-study at the [17th DPPD conference](https://www.researchgate.net/publication/374544240_17_Arbeitstagung_der_Fachgruppe_Differentielle_Psychologie_Personlichkeitspsychologie_und_Psychologische_Diagnostik_DPPD_Vielfalt_forschen_Vielfalt_leben).
+
+
+2022
+---
+
+# 2nd Boost and Exchange Academic Conference (BEACON) Conference
+
+**Basel, Switzerland**
+
+I attended the second BEACON conference at the University of Basel. The workshop I attended was very useful. 
+
+# 17th Conference Swiss Psychological Society
+
+**Zurich, Switzerland**
+
+I presented [a poster](https://sps2022.psychologie.uzh.ch/) detailing preliminary results from the pilot study of the FEEL-KJ-study at the 17th SPS SGP SSP conference. 

@@ -1,0 +1,32 @@
+---
+title: "Application Proficiencies and Transferable Skills"
+description: A compact overview of both transferable skills and proficiencies in the use of specific applications that I have used in past or current employment/volunteer work. 
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Application Proficiencies
+---
+
+# This is a placeholder.
+
+This is another placeholder. 
+
+# This is a placeholder.
+
+This is another placeholder. 
+
+
+Transferable Skills
+---
+
+# This is a placeholder.
+
+This is another placeholder. 
+
+# This is a placeholder.
+
+This is another placeholder. 

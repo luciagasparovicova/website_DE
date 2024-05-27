@@ -1,0 +1,95 @@
+---
+title: "Previous Employment and Volunteer Work"
+description: null
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Previous Employment
+---
+
+
+Research Assistant
+---
+
+# Section for Developmental and Family Psychology, ZHAW Zurich University of Applied Sciences
+**(January 2020 - March 2021)**
+
+- Collected, cleaned, analysed (in SPSS), visualized and helped write a research report in a team of four on data collected during the first COVID lockdown. The [publicly available report](https://moodle.zhaw.ch/pluginfile.php/244189/mod_label/intro/Ratgeber_digitales_Lernen_ZHAW.pdf) included both the results of the data analysis, as well as suggestions for the ZHAW students on succeeding in their long-distance learning beyond the pandemic.
+- Analysed qualitative data with content analysis and wrote a research report on the experiences nurses from various nursing institutions have with elderly migrants and what aid they wish for to care better for elderly migrants. 
+- Performed various organisational tasks to help with two international workshops, several online end-of-the-term-exams and student seminary work. 
+
+
+Research Internship
+---
+
+# Professorship for Clinical Psychology and Psychotherapy Research, University of Zurich
+**(June 2018 - March 2019)**
+
+- Prepared, visualized and gave data analysis training for assessing the content of audio records from the [TIDe – Telefon-Intervention bei Depression](https://psychologie.uzh.ch/de/bereiche/hea/klipfor/forschung/abgeschlossene-Forschungsprojekte/TIDe.html) research project in SPSS. 
+- Cleaned and analysed the inter-rater-reliability of the resulting clinical patient data in SPSS. 
+- Helped with various organisational tasks at the department. 
+
+
+Psychological Internship
+---
+
+# Medical Centre Geissberg, Kloten
+**(January 2018 - March 2018)**
+
+- Co-supervised group therapy sessions twice a week and co-supervised competence training to increase patients' confidence once week during the internship.
+- Supervised the weekly group relaxation exercise (i.e. progressive muscle relaxation exercises) during multiple sick leaves of psychotherapists at the centre.
+- Performed test assessment batteries with patients, analysed the results and prepared reports for the psychotherapists treating the patients. 
+- Implemented the BASEL-program for adiposity in weekly sessions with several patients. 
+- Implemented exposure therapy with a patient with specific anxiety disorder. 
+
+
+Research Internship
+---
+# Professorship for Developmental Psychology: Adulthood, University of Zurich 
+**(November 2016 - February 2017)**
+
+- Assessed data, cleaned, analysed and visualized the same data from a large dataset containing information on people's motivation, well-being, personality and their Pokémon Go usage in SPSS. 
+- Helped with proof-reading English publications. 
+- Helped with various organisational tasks at the department. 
+
+
+
+Volunteer Work
+---
+
+Illustrator and Editor
+---
+
+# aware - Magazine for Psychologie, University of Zurich
+
+**(April 2017 - August 2019)**
+
+- Drew original digital illustrations in accordance with articles of my choice for each issue of the [student magazine of psychology](https://aware-psymagazin.ch/). 
+- Proof-read and edited articles as an editor or each issue of the student magazine of psychology. 
+- The illustrations and final articles I worked on are linked for the [autumn 2017](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_17_9f49a8b480.pdf), [spring 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_18_a4d56e0274.pdf), [autumn 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_18_4a2fb4bc4e.pdf), [spring 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_19_db182f69d5.pdf) and [autumn 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_19_3f85db41c4.pdf) semester issue. 
+
+
+Board Member
+---
+
+# Psychology Student Organization, University of Zurich
+
+**(November 2015 - April 2018)**
+
+**General:**
+
+- Regularly attended organisation meetings, participated in discussions for subjects concerning the student body and what actions the student organization would take. 
+- Practical support with different tasks during events (i.e., sometimes selling event tickets, sometimes manning the till at the event, sometimes distributing meals at the food stall, etc.).
+
+**As Co-Leader of the Ressort Marketing (November 2015 - October 2017):**
+
+- Organized events where invited psychologists from different areas of psychology gave talks and Q&As to psychology students
+- Spread awareness about the student organisation
+
+**As Co-Leader of the Ressort Information (October 2017 - April 2018):**
+
+- Responsible for management of the student organisation mail accounts and for professional communication with people contacting the organisation with general requests
+- Responsible for the [student organization’s website](https://www.faps.ch/).  

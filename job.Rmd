@@ -1,0 +1,23 @@
+---
+title: "Contact Information"
+description: 
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<p style="text-align:center;"> ## E-Mail: 
+
+<p style="text-align:center;"> lucia.gasparovicova@unibas.ch
+
+<p style="text-align:center;">## Postal Adress:
+
+<p style="text-align:center;"> Lucia Gasparovicova
+
+<p style="text-align:center;"> Missionsstrasse 62
+
+<p style="text-align:center;"> 4055 Basel
+
+<p style="text-align:center;"> Schweiz 

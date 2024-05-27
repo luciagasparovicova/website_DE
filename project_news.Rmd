@@ -1,0 +1,50 @@
+---
+title: "Project Related News"
+description: Updates on the project I'm currently working in.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Study to Revise the Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)
+---
+
+General Information
+---
+
+
+The _**Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)**_
+is a questionnaire that is utilized in school and clinical psychology to assess how children and adolescents aged 10 - 19 years regulate their anger, sadness and fear. Children and adolescents can deal with these emotions using adaptive or maladaptive strategies. Frequent use of the latter is disadvantageous for children's and adolescents' well-being, whereas frequent use of adaptive emotion regulation strategies is beneficial for their well-being. Therefore, applied psychologist want to improve the use of adaptive and decrease the use of maladaptive emotion regulation strategies in help-seeking children and adolescents. The FEEL-KJ is a means for applied psychologists to gain further insight into a help-seeking child's or adolescents' use of adaptive and maladaptive emotion regulation strategies. 
+
+
+The current study's aim, lead by Prof. Dr. Alexander Grob and coordinated by me, is to collect data to psychometrically examine and revise the FEEL-KJ. This will ensure that the assessment resulting from the administration FEEL-KJ is reliable and useful for applied psychologists helping children and adolescents, as well as researchers investigating the subject of emotion regulation in children and adolescents. 
+
+
+You can find more detailed information on the current study on the **[official FEEL-KJ study website](https://psychologie.unibas.ch/de/fakultaet/abteilungen/entwicklungs-und-persoenlichkeitspsychologie/forschung/feel-kj/)** .
+
+
+
+
+
+
+My Responsibilities in the FEEL-KJ Study
+---
+
+
+
+- I'm currently managing and participating in the data collection process to recruit children and adolescents in schools and clinics for the FEEL-KJ study. Furthermore, I'm doing data cleaning whenever I can and I regularly do preliminary analyses of the number of participants per age to ensure that we have a sufficient sample size by the end of the data collection phase. 
+- Managed and coordinated a team of interns and master students who helped with recruitement, data collection and cleaning for the FEEL-KJ study. 
+- Organized and completed data collection for the FEEL-KJ pilot study to re-standardize and re-validate the FEEL-KJ and analysed the data from the pilot study
+- Organized and set-up both the FEEL-KJ pilot study and proper study to re-standardize and re-validate the FEEL-KJ from the start of the project, including the literature search, selection of test batteries to include in the study, planning of the study setup and composition of the proposal for the regional ethic’s committee
+
+
+
+
+
+
+Updates on the FEEL-KJ Study
+---
+
+
+We're currently still recruiting typically-developing children aged 10-11 as well as atypically-developing children and adolescents with either depression, anxiety, conduct disorder, attention-deficit disorder or eating disorder aged 10-19. 
