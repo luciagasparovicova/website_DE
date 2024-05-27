@@ -8,7 +8,7 @@ description: A compact overview of both transferable skills and proficiencies in
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Application Proficiencies
+Proficient in these Applications:
 ---
 
 # This is a placeholder.

@@ -3,7 +3,7 @@
     "path": "~/Documents/Weiterbildungen/Course_Create_your_own_Website/Personal_Website/skills.Rmd",
     "project_path": "skills.Rmd",
     "type": "r_markdown",
-    "hash": "1881359536",
+    "hash": "1964170164",
     "contents": "",
     "dirty": false,
     "created": 1716816136234.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "31,29",
-        "scrollLine": "7"
+        "cursorPosition": "10,33",
+        "scrollLine": "4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1716816436,
+    "lastKnownWriteTime": 1716817639,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1716816436843,
+    "last_content_update": 1716817639380,
     "read_only": false,
     "read_only_alternatives": []
 }
