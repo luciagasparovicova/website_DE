@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ![*Lucia Gasparovicova, M. Sc.*](website_images/Profile_Image_Round_Small.png){width=45%}
 <center>
 
-I'm **Lucia Gasparovicova** and I'm currently working as a **research assistant/Phd student in adolescent emotion regulation** at the Division of Personality and Developmental Psychology at the University of Basel.
+I'm **Lucia Gasparovicova** and I'm currently working as a **research assistant/Ph.d student in adolescent emotion regulation** at the Division of Personality and Developmental Psychology at the University of Basel.
 
 Apart from being able to follow my innate curiousity in my daily **research and data analysis work**, I also enjoy **drawing illustrations** in my free time, such as the one above. 
 
