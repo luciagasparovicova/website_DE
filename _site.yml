@@ -26,15 +26,13 @@ navbar:
           href: skills.html
     - text: "Contact"
       href: contact.html
-      menu: 
-      - icon: fa-envelope fa-lg
-        href: lucia.gasparovicova@unibas.ch
-      - icon: fa-linkedin fa-lg
-        href: https://www.linkedin.com/in/lucia-gasparovicova/
-      - icon: ai ai-orcid fa-lg
-        href: https://orcid.org/0000-0002-6346-6348
-      - icon: ai ai-researchgate fa-lg
-        href: https://www.researchgate.net/profile/Lucia-Gasparovicova
+      
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/lucia-gasparovicova/
+    - icon: ai ai-orcid fa-lg
+      href: https://orcid.org/0000-0002-6346-6348
+    - icon: ai ai-researchgate fa-lg
+      href: https://www.researchgate.net/profile/Lucia-Gasparovicova
 
       
    

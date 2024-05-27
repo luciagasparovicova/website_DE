@@ -8,10 +8,10 @@ description:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<p style="text-align:center;"> ## E-Mail: 
+
 
 :::float-image
-```{r out.width='50px', out.extra='style="float:left; padding:30px"', echo=FALSE}
+```{r out.width='50px', out.extra='style="float:left; padding:40px"', echo=FALSE}
 knitr::include_graphics("website_images/envelope-regular.svg")
 ```
 
@@ -20,16 +20,5 @@ knitr::include_graphics("website_images/envelope-regular.svg")
 lucia.gasparovicova@unibas.ch
 
 :::
-
-```
-
-
-<p style="text-align:center;"> ## ResearchGate: 
-
-<p style="text-align:center;"> https://www.researchgate.net/profile/Lucia-Gasparovicova
-
-<p style="text-align:center;"> ## Web of Science:
-
-<p style="text-align:center;"> https://www.webofscience.com/wos/author/record/JSK-1693-2023 
 
 
