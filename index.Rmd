@@ -17,8 +17,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+---
+
+
 <center>
-![*Lucia Gasparovicova, M. Sc.*](website_images/Profile_Image_Round_Small.png){width=45%}
+![*Lucia Gasparovicova, M. Sc.*](website_images/Profile_Image_Round_Small.png){width=35%}
 <center>
 
 I'm **Lucia Gasparovicova** and I'm currently working as a **research assistant/Ph.d student in adolescent emotion regulation** at the Division of Personality and Developmental Psychology at the University of Basel.
@@ -27,5 +30,11 @@ Apart from being able to follow my innate curiousity in my daily **research and 
 
 
 Through one way or another, you have come across my personal website. I hope you'll find the information you're looking for and will have **an enjoyable stay** here!  
+
+```{css}
+d-title {
+    display: none;
+  }
+```
 
 
