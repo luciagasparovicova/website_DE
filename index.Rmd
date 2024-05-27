@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: "Enjoy your stay!"
 description: 
 
 site: distill::distill_website
