@@ -1,6 +1,6 @@
 ---
 title: "General Recent News"
-description: General updates related to my work as a research assistant, such as attended conference or attedances at talks, are listed here. 
+description: General updates related to my work as a research assistant, such as attended conferences or attedances at talks, are listed here. 
 
 ---
 
@@ -10,17 +10,17 @@ knitr::opts_chunk$set(echo = FALSE)
 2024
 ---
 
-# Coming Soon: 45th Annual Conference of the International School Psychology Association (ISPA)
+### Coming Soon: 45th Annual Conference of the International School Psychology Association (ISPA)
 
 **Riga, Latvia**
 
-I will be presenting our [review on European emotion regulation questionnaires for children and adolescents](https://www.researchgate.net/publication/368661488_PREREGISTRATION_Comparing_Questionnaires_Assessing_Emotion_Regulation_in_Children_and_Adolescents_Validated_in_European_Countries_A_Narrative_Review) in a [short presentation|(https://2024.ispaweb.org/). 
+I will be presenting our [review on European emotion regulation questionnaires for children and adolescents](https://www.researchgate.net/publication/368661488_PREREGISTRATION_Comparing_Questionnaires_Assessing_Emotion_Regulation_in_Children_and_Adolescents_Validated_in_European_Countries_A_Narrative_Review) in a [short presentation](https://2024.ispaweb.org/). 
 
 
 2023
 ---
 
-# 17th Conference of the Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie und Psychologische Diagnostik (DPPD)
+### 17th Conference of the Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie und Psychologische Diagnostik (DPPD)
 
 **Salzburg, Austria**
 
@@ -30,13 +30,13 @@ I presented a poster detailing our current progress in the FEEL-KJ-study at the 
 2022
 ---
 
-# 2nd Boost and Exchange Academic Conference (BEACON) Conference
+### 2nd Boost and Exchange Academic Conference (BEACON) Conference
 
 **Basel, Switzerland**
 
-I attended the second BEACON conference at the University of Basel. The workshop I attended was very useful. 
+I attended the second BEACON conference at the University of Basel. I had a great time at the workshop and poster session I attended, as well as connecting with my fellow PhD students at the Faculty of Psychology.  
 
-# 17th Conference Swiss Psychological Society
+### 17th Conference Swiss Psychological Society
 
 **Zurich, Switzerland**
 

@@ -13,9 +13,9 @@ navbar:
       menu: 
         - text: "General"
           href: general.html
-        - text: "Project"
+        - text: "Project-Related"
           href: project_news.html
-    - text: "Job"
+    - text: "Work"
       href: job.html
       menu: 
         - text: "Current Employment"
@@ -27,12 +27,7 @@ navbar:
     - text: "Contact"
       href: contact.html
       
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/lucia-gasparovicova/
-    - icon: ai ai-orcid fa-lg
-      href: https://orcid.org/0000-0002-6346-6348
-    - icon: ai ai-researchgate fa-lg
-      href: https://www.researchgate.net/profile/Lucia-Gasparovicova
+
 
       
    

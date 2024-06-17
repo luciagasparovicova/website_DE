@@ -10,8 +10,8 @@ knitr::opts_chunk$set(echo = FALSE)
 Study to Revise the Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)
 ---
 
-General Information
----
+### General Information
+
 
 
 The _**Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)**_
@@ -28,8 +28,8 @@ You can find more detailed information on the current study on the **[official F
 
 
 
-My Responsibilities in the FEEL-KJ Study
----
+### My Responsibilities in the FEEL-KJ Study
+
 
 
 
@@ -43,8 +43,8 @@ My Responsibilities in the FEEL-KJ Study
 
 
 
-Updates on the FEEL-KJ Study
----
+### Updates on the FEEL-KJ Study
+
 
 
 We're currently still recruiting typically-developing children aged 10-11 as well as atypically-developing children and adolescents with either depression, anxiety, conduct disorder, attention-deficit disorder or eating disorder aged 10-19. 

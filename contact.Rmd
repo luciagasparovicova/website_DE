@@ -8,17 +8,21 @@ description:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-
-:::float-image
-```{r out.width='50px', out.extra='style="float:left; padding:40px"', echo=FALSE}
-knitr::include_graphics("website_images/envelope-regular.svg")
-```
-
-
+### E-Mail:
 
 lucia.gasparovicova@unibas.ch
 
-:::
+### LinkedIn:
+
+https://www.linkedin.com/in/lucia-gasparovicova/
+
+
+### ResearchGate:
+
+https://www.researchgate.net/profile/Lucia-Gasparovicova
+
+### ORCID:
+
+https://orcid.org/0000-0002-6346-6348
 
 

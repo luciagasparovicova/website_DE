@@ -1,6 +1,6 @@
 ---
 title: "Application Proficiencies and Transferable Skills"
-description: A compact overview of both transferable skills and proficiencies in the use of specific applications that I have used in past or current employment/volunteer work. 
+description: A compact overview of both proficiencies and transferable skills in the use of specific applications that I have used in past or current employment/volunteer work. 
   
 ---
 
@@ -8,25 +8,83 @@ description: A compact overview of both transferable skills and proficiencies in
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Application Proficiencies
+Application Proficiency
 ---
 
-# This is a placeholder.
+# RStudio
 
-This is another placeholder. 
+- Data Cleaning
+- Data Preparation
+- Data Visualization
+- Data Analysis, such as:
+  - Evaluation of psychometric properties of utilized measurement tools (i.e. Cronbach's Alpha, Omega Hierarchical, etc.)
+  - Missing data analysis and multiple imputation
+  - Computation of descriptive statistics
+  - Computation of inferential statistics (such as correlations)
+  - Analysis of group mean differences 
+  - Analysis of multilevel-data 
+  - Analysis by Structural Equation Modelling (SEM)
 
-# This is a placeholder.
+# IBM SPSS Statistics
 
-This is another placeholder. 
+- Data Cleaning
+- Data Preparation
+- Data Visualization
+- Data Analysis, such as:
+  - Evaluation of psychometric properties of utilized measurement tools (i.e. intra-class coefficients, Cronbach's Alpha)
+  - Computation of factor analysis (i.e. principal component analysis, exploratory factor analysis)
+  - Computation of descriptive statistics
+  - Computation of inferential statistics (such as correlations)
+  - Analysis of group mean differences 
+  - Use of the PROCESS Macro to perfom multiple hierachical mediation and moderation analyses
+
+# G*Power
+
+- Computation of a-priori power analyses for sample size requirement for planned analyses 
+
+# Adobe Photoshop
+
+- Illustration of original images for reports, presentations, posters and articles
+- Touch-ups on photos
+
+# Microsoft Office Applications
+
+- Experience in Microsoft Word for writing various templates, reports and manuscripts
+- Experience in Microsoft Excel for study process tracking, data cleaning and simple data analysis
+- Experience in Microsoft PowerPoint to create presentation slides and scientific posters
+- Experience in Microsoft Outlook to keep track of, compose and organize e-mails
+
+# Microsoft Teams, Zoom and Slack
+
+- Experience in communication, set-up of meetings and file sharing on Microsoft Teams, Zoom and Slack
 
 
 Transferable Skills
 ---
 
-# This is a placeholder.
+# Project Organisation and Coordination
 
-This is another placeholder. 
+- Experience in preparing a project prior to launch (i.e. thorough investigation of required resources and knowledge, planning and organization of necessary set-up of project plan, project schedule, etc.)
+- Creation and submission of ethics report of planned study to the responsible ethics committee
+- Hiring interns for project work
+- Coordinating a small team of people with a varying range of work quota (i.e. 10% - 50%) and varying schedules, which included:
+    - maintaining good and frequent communication and exchange of relevant information between project members
+    - training interns and master students for project work
+    - supervision of interns and master students' project work
+    - supporting interns and master students whenever necessary 
+    - regular project member meetings and discussion to keep everyone updated and to proactively deal with current or anticipated challenges during the ongoing project process 
+    
 
-# This is a placeholder.
+# Data Management
 
-This is another placeholder. 
+- Experience in setting up and maintaining a comprehensible and easy-to-navigate folder and file structure for an entire project
+- Experience in communicating with and implementing the responsible IT teams data protection measures
+
+# Report and Manuscript Writing
+
+- Experience in writing German and English reports
+- Experience in writing English manuscripts
+
+# Proof-Reading/Editoral Work
+
+- Experience in proof-reading and editing texts (i.e. reports, manuscripts) in both English and German to ensure that the text is grammatically correct and in formal language (reports, manuscripts), as well as as adhering to certain citation styles (e.g. MLA 8th edition, APA 6th and 7th edition) whenever required 
