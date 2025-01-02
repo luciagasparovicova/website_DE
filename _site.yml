@@ -11,9 +11,9 @@ navbar:
     - text: "Updates"
       href: updates.html
       menu: 
-        - text: "General"
-          href: general.html
-        - text: "Project-Related"
+        - text: "Publications & Presentations"
+          href: publications_presentations.html
+        - text: "Project News"
           href: project_news.html
     - text: "Work"
       href: job.html
