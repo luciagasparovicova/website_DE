@@ -1,6 +1,6 @@
 ---
 title: "Project Related News"
-description: Updates on the project I'm currently working in.
+description: Updates on the project I'm currently employed in.
 ---
 
 ```{r setup, include=FALSE}
@@ -33,8 +33,11 @@ You can find more detailed information on the current study on the **[official F
 
 
 
-- I'm currently managing and participating in the data collection process to recruit children and adolescents in schools and clinics for the FEEL-KJ study. Furthermore, I'm doing data cleaning whenever I can and I regularly do preliminary analyses of the number of participants per age to ensure that we have a sufficient sample size by the end of the data collection phase. 
-- Managed and coordinated a team of interns and master students who helped with recruitement, data collection and cleaning for the FEEL-KJ study. 
+- Currently: Analysing the FEEL-KJ study data (in R Studio), wrapping up administrative tasks
+required for definitive study completion and updating the FEEL-KJ test manual.
+ 
+- Completed data collection and preparation of the FEEL-KJ study. This included personally contacting institutions, presenting an age-appropriate presentation of the FEEL-KJ study in front of children and adolescents for study recruitment and answering inquires regarding the study from institutions and participants. 
+- Managed and coordinated a team of interns and master students who helped with recruitement, data collection and preparation for the FEEL-KJ study. 
 - Organized and completed data collection for the FEEL-KJ pilot study to re-standardize and re-validate the FEEL-KJ and analysed the data from the pilot study
 - Organized and set-up both the FEEL-KJ pilot study and proper study to re-standardize and re-validate the FEEL-KJ from the start of the project, including the literature search, selection of test batteries to include in the study, planning of the study setup and composition of the proposal for the regional ethic’s committee
 
@@ -47,4 +50,5 @@ You can find more detailed information on the current study on the **[official F
 
 
 
-We're currently still recruiting typically-developing children aged 10-11 as well as atypically-developing children and adolescents with either depression, anxiety, conduct disorder, attention-deficit disorder or eating disorder aged 10-19. 
+We have completed data collection and are completing administrative and archival tasks for 
+study termination. Moreover, the study data is currently being analysed. 

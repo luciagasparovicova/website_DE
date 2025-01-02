@@ -1,6 +1,6 @@
 ---
 title: "Publications & Presentations"
-description: An overview of my current publications and presentations at various conferences, listed in APA 7th format.   
+description: An overview of my current publications and presentations, listed in APA 7th format.   
 
 ---
 
@@ -10,14 +10,14 @@ knitr::opts_chunk$set(echo = FALSE)
 Publications
 ---
 
-Gasparovicova, L., Meachon, E. J., & Grob, A. (2025). *European Questionnaires Assessing Emotion Regulation in Children and Adolescents: A Narrative Review* [manuscript in preparation]. Division for Personality and Developmental Psychology, University of Basel. 
+Gasparovicova, L., Meachon, E. J., & Grob, A. (2025). *European Questionnaires Assessing Emotion Regulation in Children and Adolescents: A Narrative Review* **[manuscript in preparation]**. Division for Personality and Developmental Psychology, University of Basel. 
 
-Gasparovicova, L., Steppan, M., & Grob, A. (2025). *Executive Functioning as a Moderator between Emotion Regulation and Problem Behaviour in Typically-Developing Children and Adolescents* [manuscript in preparation]. Division for Personality and Developmental Psychology, University of Basel. 
+Gasparovicova, L., Steppan, M., & Grob, A. (2025). *Executive Functioning as a Moderator between Emotion Regulation and Problem Behaviour in Typically-Developing Children and Adolescents* **[manuscript in preparation]**. Division for Personality and Developmental Psychology, University of Basel. 
 
-Gasparovicova, L. & Grob, A. (2025). *Revision of the Fragebogen zur Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ): Psychometric Qualities of the Fragebogen zur Emotionsregulation bei Kindern und Jugendlichen - 2 (FEEL-KJ - 2)* [manuscript in preparation]. Division for Personality and Developmental Psychology, University of Basel. 
+Gasparovicova, L. & Grob, A. (2025). *Revision of the Fragebogen zur Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ): Psychometric Qualities of the Fragebogen zur Emotionsregulation bei Kindern und Jugendlichen - 2 (FEEL-KJ - 2)* **[manuscript in preparation]**. Division for Personality and Developmental Psychology, University of Basel. 
 
 Schwarz, B., Härri, C., Gasparovicova, L. & von Arx, C. (2020). *Ratgeber zum digitalen Lernen
-Erfolgreich Studieren im Online-Unterricht.* ZHAW School of Applied Psychology, Zurich. https://moodle.zhaw.ch/pluginfile.php/244189/mod_label/intro/Ratgeber_digitales_Lernen_ZHAW.pdf
+Erfolgreich Studieren im Online-Unterricht.* Zurich University of Applied Sciences. https://moodle.zhaw.ch/pluginfile.php/244189/mod_label/intro/Ratgeber_digitales_Lernen_ZHAW.pdf
 
 
 
@@ -25,10 +25,10 @@ Erfolgreich Studieren im Online-Unterricht.* ZHAW School of Applied Psychology, 
 Presentations & Posters
 ---
 
-Gasparovicova, L., Steppan, M., & Grob, A. (2024, September). *Executive Functioning as a Moderator between Emotion Regulation and Problem Behaviour in Typically-Developing Children and Adolescents.* Poster at the 4th Boost and Exchange Academic Conference, Basel, Switzerland.
+Gasparovicova, L., Steppan, M., & Grob, A. (2024, September). *Executive Functioning as a Moderator between Emotion Regulation and Problem Behaviour in Typically-Developing Children and Adolescents.* Poster at the 4th Boost and Exchange Academic Conference (BEACON), Basel, Switzerland.
 
 Gasparovicova, L., Meachon, E. J., & Grob, A. (2024, July). *Questionnaires Assessing Emotion Regulation in Children and Adolescents Validated in Europe: Review.* Presentation at the 45th International School Psychology Association (ISPA) Conference, Riga, Latvia. 
 
-Gasparovicova, L. & Grob, A. (2023, September). *Preliminary Analyses of the Standardisation Sample to Re-Standardize and Re-Validate the Fragebo-gen zur Erhebung der Emotionsregulation für Kinder und Jugendliche (FEEL-KJ)*. Poster at the 17th Arbeitstagung der Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie und Psychologische Diagnostik (DPPD) in der Deutschen Gesellschaft für Psychologie Conference, Salzburg, Austria.
+Gasparovicova, L. & Grob, A. (2023, September). *Preliminary Analyses of the Standardisation Sample to Re-Standardize and Re-Validate the Fragebo-gen zur Erhebung der Emotionsregulation für Kinder und Jugendliche (FEEL-KJ)*. Poster at the 17th Arbeitstagung der Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie und Psychologische Diagnostik (DPPD) of the German Society of Psychology Conference, Salzburg, Austria.
 
 Gasparovicova, L. & Grob, A. (2022, September). *Conceptual Adjustment and Re-Validation of the Questionnaire for Assessment of Emotion Regulation in Children and Adolescents (German: Fragebogen zur Erhebung von Emotionsregulation bei Kindern und Jugendlichen, FEEL-KJ): A pilot study.* Poster at the 17th Conference of the Swiss Psychological Society (SPS SGP SSP), Zurich, Switzerland.
