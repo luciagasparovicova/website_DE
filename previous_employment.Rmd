@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **(January 2020 - March 2021)**
 
 - Collected, prepared, analysed and visualized data (in SPSS). Afterwards, wrote a research report in collaboration with three further project members on the aforementioned data that was collected during the first COVID lockdown in 2020. The [publicly available report](https://moodle.zhaw.ch/pluginfile.php/244189/mod_label/intro/Ratgeber_digitales_Lernen_ZHAW.pdf) included both the results of the data analysis, as well as suggestions for the ZHAW students on succeeding in their long-distance learning beyond the pandemic.
-- Analysed qualitative data with content analysis (in MaxQDA). Then, wrote a research report based on the aforementioned analysis on the experiences nurses from various nursing institutions have with elderly migrants and what aid they wish for to care better for elderly migrants. 
+- Prepared and analysed qualitative data with content analysis (in MaxQDA). Then, wrote a research report based on the aforementioned analysis on the experiences nurses from various nursing institutions have with elderly migrants and what aid they wish for to care better for elderly migrants. 
 - Performed various organisational tasks at the department, including support at two international workshops, several online end-of-the-term-exams and student seminary work. 
 
 
@@ -26,8 +26,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ### Professorship for Clinical Psychology and Psychotherapy Research, University of Zurich
 **(June 2018 - March 2019)**
 
+- Collected, prepared, analysed and visualized a longitudinal, clinical data (in SPSS and R Studio).
 - Prepared, visualized and presented a data analysis workshop for assessing the content of audio records from the [TIDe – Telefon-Intervention bei Depression](https://psychologie.uzh.ch/de/bereiche/hea/klipfor/forschung/abgeschlossene-Forschungsprojekte/TIDe.html) research project. 
-- Collected, prepared, analysed and visualized clinical data (in SPSS and R Studio). 
 - Performed various organisational tasks at the department, including support at a scientific conference.  
 
 
@@ -42,7 +42,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Performed test assessment batteries with patients, analysed the results and prepared test reports.
 - Implemented the BASEL-program for treating obesity in weekly, one-on-one sessions with several patients. 
 - Implemented exposure therapy with a patient with specific anxiety disorder. 
-- Performed various organisational tasks at the department, including minute-taking, guideline creation and psychosocial support for several patients' administrative work.  
+- Performed various organisational tasks at the department, including minute-taking, creating guidelines and providing psychosocial support within patients' administrative work.  
 
 
 # Research Internship
@@ -65,9 +65,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **(April 2017 - August 2019)**
 
-- Drew original digital illustrations in accordance with articles of my choice for each issue of the [student magazine of psychology](https://aware-psymagazin.ch/). 
-- Proof-read and edited articles as an editor or each issue of the student magazine of psychology. 
-- Created illustrations and proof-read, finalized articles are linked for the [autumn 2017](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_17_9f49a8b480.pdf), [spring 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_18_a4d56e0274.pdf), [autumn 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_18_4a2fb4bc4e.pdf), [spring 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_19_db182f69d5.pdf) and [autumn 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_19_3f85db41c4.pdf) semester issue. 
+- Drew original digital illustrations in accordance with articles of my choice for each issue of the [student magazine of psychology](https://aware-psymagazin.ch/) (in Adobe Photoshop). 
+- Proof-read and edited articles as an editor on each issue of the student magazine of psychology. 
+
+The created illustrations and proof-read, finalized articles are linked here for the [autumn 2017](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_17_9f49a8b480.pdf), [spring 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_18_a4d56e0274.pdf), [autumn 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_18_4a2fb4bc4e.pdf), [spring 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_19_db182f69d5.pdf) and [autumn 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_19_3f85db41c4.pdf) semester issue. 
 
 
 # Board Member
@@ -80,12 +81,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ### General:
 
 - Regularly attended organisation meetings, participated in discussions for subjects concerning the student body and what actions the student organization would take. 
-- Practical support with different tasks during events (i.e., sometimes selling event tickets, sometimes manning the till at the event, sometimes distributing meals at the food stall, etc.).
+- Aided with different tasks during student organization events (i.e., sometimes selling event tickets, sometimes manning the til, sometimes distributing meals at the food stall, sometimes selling tickets prior to the event, etc.).
 
 ### As Co-Leader of the Ressort Information (October 2017 - April 2018):
 
-- Responsible for management of the student organisation mail accounts and for professional communication with people contacting the organisation with general requests
-- Responsible for the [student organization’s website](https://www.faps.ch/). 
+- Managed the student organisation mail accounts and for professionally communicated with people contacting the organisation with general requests
+- Maintained and updated the [student organization’s website](https://www.faps.ch/). 
 
 ### As Co-Leader of the Ressort Marketing (November 2015 - October 2017):
 

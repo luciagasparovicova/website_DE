@@ -1,6 +1,6 @@
 ---
 title: "Current Employment"
-description: Information on my current employment and what it entails. 
+description: Information on my current employmentand its entailing responsibilities. 
   
 ---
 
@@ -8,19 +8,35 @@ description: Information on my current employment and what it entails.
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Coordination and Data Collection/Analysis in the FEEL-KJ Study
+Project Management as well as Data Collection, Preparation and Analysis of the FEEL-KJ Study
 ---
 
-I'm currently managing and participating in the data collection process to recruit children and adolescents in schools and clinics for the FEEL-KJ study. We use LimeSurvey hosted on the Faculty of Psychology's servers for the online portion of the FEEL-KJ study. 
+The major focus of my current employment as a **_research assistant_** at the University of Basel is **project management** and **data analysis** work within the study to revise the _Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)_. My project responsibilities include or have subsequently included:
 
-Furthermore, I'm responsible for data cleaning, preparation and (preliminary) analysis of the number of participants per age to ensure that we have a sufficient sample size by the end of the data collection phase of the FEEL-KJ study. I use either SPSS or R Studio depending on what is more suitable for the current task. 
+- Currently: Analysing the FEEL-KJ study data (in R Studio), wrapping up administrative tasks
+required for definitive study completion and updating the FEEL-KJ test manual.
+ 
+- Completed data collection and preparation of the FEEL-KJ study. This included personally contacting institutions, presenting an age-appropriate presentation of the FEEL-KJ study in front of children and adolescents for study recruitment and answering inquires regarding the study from institutions and participants. 
+- Managed and coordinated a team of interns and master students who helped with recruitement, data collection and preparation for the FEEL-KJ study. 
+- Organized and completed data collection for the FEEL-KJ pilot study to re-standardize and re-validate the FEEL-KJ and analysed the data from the pilot study
+- Organized and set-up both the FEEL-KJ pilot study and proper study to re-standardize and re-validate the FEEL-KJ from the start of the project, including the literature search, selection of test batteries to include in the study, planning of the study setup and composition of the proposal for the regional ethic’s committee
+- Managed administrative tasks necessary for study implementation, including procurement and establishment of the physical and digital data management and online survey infrastructure; the latter in conjunction with the faculty's IT team. Furthermore, was responsible for tracking the study expanses, for procuring study participation compensation and for finding, interviewing and hiring interns for the FEEL-KJ-study.  
 
+A minor focus of my work as a **_research assistant_** further included **supervision of master students** within the masters project _test development_, which consisted of
+these responsibilities:
+
+- Supervised and supported master students throughout their master thesis. This included regular meetings to discuss thesis progress, written and oral feedback on thesis progress, evaluation of and report creation on the final version of the master thesis.
+- Co-supervised the course adjoining the masters project along with two other colleagues. This included discussing the course schedule and organizational matters with co-supervisors, planning, preparing and teaching seminary lessons to master students, evaluating homework tasks for aforementioned lessons and giving feedback on master students' presentations.
 
 Dissertation Work to Attain my PhD at the University of Basel 
 ---
 
-I'm simultaneously working on attaining my PhD at the University of Basel. My dissertation is about children's and adolesecents' emotion regulation of their negative emotions, that is, how children and adolescents deal with their anger, sadness and fear. 
+Simultaneously to my project-work listed above, I'm working on attaining my PhD at the University of Basel. The overarching theme is on children's and adolesecents' emotion regulation of their negative emotions, that is, how children and adolescents deal with their anger, sadness and fear. To eventually attain my PhD, I am either doing or have done the following:
 
-My first of three manuscripts, a review on comparing European emotion regulation questionnaires for children and adolescents has been [preregistered](https://www.researchgate.net/publication/368661488_PREREGISTRATION_Comparing_Questionnaires_Assessing_Emotion_Regulation_in_Children_and_Adolescents_Validated_in_European_Countries_A_Narrative_Review) and submitted. 
+- Currently: Working on my second manuscript 
+- Writing and publication of scientific articles
+- Preparation and analysis of various datasets
+- Investigation of relevant research topics for the overarching theme of my dissertation and formulating relevant research questions as well as hypotheses
+- Regularly attending workshops/courses for refining relevant technical skills (e.g. specific data analysis methods) or transferable skills (e.g. improve general project management skills)
+ 
 
-I'm currently working on my second manuscript that examines the moderating influence of executive functioning on emotion regulation and problem behaviour in typically-developing children and adolescents. 
