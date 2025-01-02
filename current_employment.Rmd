@@ -11,7 +11,10 @@ knitr::opts_chunk$set(echo = FALSE)
 Research Assistant at the University of Basel 
 ---
 
+**(April 2021 - current)**
+
 ### Project Management & Data Collection, Preparation, Analysis
+
 
 The major focus of my current employment is **project management** and **data analysis** work within the study to revise the _Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)_.\
 \
@@ -36,6 +39,8 @@ A minor focus of my current employment further contains **supervision of master 
 
 Ph.D. Student at the University of Basel 
 ---
+
+**(April 2021 - current)**
 
 Simultaneously to my project-work listed above, I'm working on attaining my Ph.D. at the University of Basel. The overarching theme is on children's and adolesecents' emotion regulation of their negative emotions, that is, how children and adolescents deal with their anger, sadness and fear.\
 \
