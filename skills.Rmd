@@ -42,24 +42,24 @@ Application Proficiency
 
 # LimeSurvey
 
-- Experience in setting up and managing online-surveys in accordance with current Swiss 
+- Configuration and managment of online-surveys in accordance with current Swiss 
 data protection laws and ethic guidelines by Swiss ethics committees (Swissethics) 
 
 # Adobe Photoshop
 
 - Illustration of original images for reports, presentations, posters and articles
-- Touch-ups on photos
+- Post-Production touch-ups on photos
 
 # Microsoft Office Applications
 
-- Experience in Microsoft Word for writing various templates, reports and manuscripts
-- Experience in Microsoft Excel for study process tracking, data cleaning and simple data analysis
-- Experience in Microsoft PowerPoint to create presentation slides and scientific posters
-- Experience in Microsoft Outlook to keep track of, compose and organize e-mails
+- **Microsoft Word**: writing various templates, reports and manuscripts
+- **Microsoft Excel**: tracking study progress, preliminary data cleaning and simple data analysis
+- **Microsoft PowerPoint**: preparing presentation slides and scientific posters
+- **Microsoft Outlook**: tracking, composing and organizing e-mails
 
 # Microsoft Teams, Zoom and Slack
 
-- Experience in communication, set-up of meetings and file sharing on Microsoft Teams, Zoom and Slack
+- Communication, organization of meetings and file sharing on Microsoft Teams, Zoom and Slack
 
 
 Transferable Skills
@@ -105,6 +105,10 @@ Transferable Skills
 - Experience in proof-reading and editing texts (i.e. articles, reports, theses, manuscripts) in both English and German regarding grammatical accuracy, language style and formal
 adherence to specific citation formats (e.g. MLA 8th edition, APA 6th and 7th edition)
 - Experience in providing constructive feedback regarding revision suggestions stemming from aforementioned editorial work
+
+# Public Speaking
+
+- Experience in public speaking and presenting within a variety of contexts (conference presentation, teaching a lesson, study presentation, collaboration invitation) to a variety of audiences (researchers, students, school-graders, mental health professionals) of diverse sizes (five to two-hundred people) with varying linguistic complexity (formal, scientific language vs. simple colloquial speech) and presentation duration (three to forty-five minutes) 
 
 # Language Skills
 
