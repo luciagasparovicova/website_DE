@@ -1,6 +1,6 @@
 ---
 title: "Application Proficiencies and Transferable Skills"
-description: A compact overview of both proficiencies and transferable skills in the use of specific applications that I have used in past or current employment/volunteer work. 
+description: A compact overview of both proficiencies and transferable skills in the use of specific applications that I have demonstrated in past or current employment/volunteer work. 
   
 ---
 
@@ -26,8 +26,7 @@ Application Proficiency
 
 # IBM SPSS Statistics
 
-- Data Cleaning
-- Data Preparation
+- Data Preparation/Cleaning
 - Data Visualization
 - Data Analysis, such as:
   - Evaluation of psychometric properties of utilized measurement tools such as reliability analyses (i.e. intra-class coefficients, Cronbach's Alpha)
@@ -87,6 +86,7 @@ Transferable Skills
     - supervising interns' and master students' project work
     - providing practical and moral support to interns and master students whenever necessary 
     - organizing regular project member meetings to keep all project members updated and to proactively deal with current or anticipated challenges during the ongoing project process 
+    
 - Working within a project team, which included:
   - contributing to a good working environment within the project team with good and friendly communication
   - completing tasks according to my supervisor's specifications, as well as
@@ -108,11 +108,11 @@ adherence to specific citation formats (e.g. MLA 8th edition, APA 6th and 7th ed
 
 # Language Skills
 
-- Standard German: Native-speaker level proficiency in speaking and writing (attended
+- **Standard German**: Native-speaker level proficiency in speaking and writing (attended
 entire school life in Swiss German schools)
-- Swiss German: Native-speaker level proficiency in comprehension and speaking (raised in German part of Switzerland)
-- English: High-proficiency level in speaking and writing (Minor Bachelor of Arts Degree in English Language and Literature Studies, Home-Stay Abroad in England)
-- Slovak: Native-speaker level proficiency in speaking (Slovak nationality)
-- French: High-proficiency level regarding comprehension, mid-proficiency level in speaking and writing (obligatory French classes from 5th grade/ age 10 on)
-- Latin: Mid-proficiency level in comprehension and writing (classes from 7th grade/ age 12 until 12th grade/ age 18 on)
-- Czech: High-proficiency level regarding comprehension
+- **Swiss German**: Native-speaker level proficiency in comprehension and speaking (raised in German part of Switzerland)
+- **English**: High-proficiency level in speaking and writing (Minor Bachelor of Arts Degree in English Language and Literature Studies, Home-Stay Abroad in England)
+- **Slovak**: Native-speaker level proficiency in speaking (Slovak nationality)
+- **French**: High-proficiency level regarding comprehension, mid-proficiency level in speaking and writing (obligatory French classes from 5th grade/ age 10 on)
+- **Latin**: Mid-proficiency level in comprehension and writing (classes from 7th grade/ age 12 until 12th grade/ age 18 on)
+- **Czech**: High-proficiency level regarding comprehension

@@ -66,7 +66,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **(April 2017 - August 2019)**
 
 - Drew original digital illustrations in accordance with articles of my choice for each issue of the [student magazine of psychology](https://aware-psymagazin.ch/) (in Adobe Photoshop). 
-- Proof-read and edited articles as an editor on each issue of the student magazine of psychology. 
+- Proof-read and edited articles as an editor on each issue of the student magazine of psychology.
 
 The created illustrations and proof-read, finalized articles are linked here for the [autumn 2017](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_17_9f49a8b480.pdf), [spring 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_18_a4d56e0274.pdf), [autumn 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_18_4a2fb4bc4e.pdf), [spring 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_19_db182f69d5.pdf) and [autumn 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_19_3f85db41c4.pdf) semester issue. 
 
