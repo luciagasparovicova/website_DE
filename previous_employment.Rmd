@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Collected, prepared, analysed and visualized data (in SPSS). Afterwards, wrote a research report in collaboration with three further project members on the aforementioned data that was collected during the first COVID lockdown in 2020. The [publicly available report](https://moodle.zhaw.ch/pluginfile.php/244189/mod_label/intro/Ratgeber_digitales_Lernen_ZHAW.pdf) included both the results of the data analysis, as well as suggestions for the ZHAW students on succeeding in their long-distance learning beyond the pandemic.
 - Prepared and analysed qualitative data with content analysis (in MaxQDA). Then, wrote a research report based on the aforementioned analysis on the experiences nurses from various nursing institutions have with elderly migrants and what aid they wish for to care better for elderly migrants. 
-- Performed various organisational tasks at the department, including support at two international workshops, several online end-of-the-term-exams and student seminary work. 
+- Performed various organisational tasks at the department, including support at two international workshops, several online end-of-the-term-exams and evaluation of student seminary work. 
 
 
 # Research Internship
@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ### Professorship for Clinical Psychology and Psychotherapy Research, University of Zurich
 **(June 2018 - March 2019)**
 
-- Collected, prepared, analysed and visualized a longitudinal, clinical data (in SPSS and R Studio).
+- Collected, prepared, analysed and visualized a longitudinal, clinical dataset (in SPSS and R Studio).
 - Prepared, visualized and presented a data analysis workshop for assessing the content of audio records from the [TIDe – Telefon-Intervention bei Depression](https://psychologie.uzh.ch/de/bereiche/hea/klipfor/forschung/abgeschlossene-Forschungsprojekte/TIDe.html) research project. 
 - Performed various organisational tasks at the department, including support at a scientific conference.  
 

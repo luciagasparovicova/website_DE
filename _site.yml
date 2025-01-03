@@ -15,12 +15,12 @@ navbar:
           href: publications_presentations.html
         - text: "Project News"
           href: project_news.html
-    - text: "Work"
+    - text: "Professional Experience"
       href: job.html
       menu: 
         - text: "Current Employment"
           href: current_employment.html
-        - text: "Professional Experience"
+        - text: "Previous Employment"
           href: previous_employment.html
         - text: "Professional Skills"
           href: skills.html
