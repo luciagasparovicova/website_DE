@@ -1,5 +1,5 @@
 ---
-title: "Previous Employment and Volunteer Work"
+title: "Frühere Stellen und ehrenamtliche Tätigkeiten"
 description: null
 ---
 
@@ -7,88 +7,80 @@ description: null
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Previous Employment
+## Frühere Stellen
 
-# Research Assistant
+# Wissenschaftliche Assistentin
 
+### Fachgruppe für Entwicklungs- und Familienpsychologie, ZHAW Zürcher Hochschule für Angewandte Wissenschaften
 
-### Section for Developmental and Family Psychology, ZHAW Zurich University of Applied Sciences
-**(January 2020 - March 2021)**
+**(Januar 2020 - März 2021)**
 
-- Collected, prepared, analysed and visualized data (in SPSS). Afterwards, wrote a research report in collaboration with three further project members on the aforementioned data that was collected during the first COVID lockdown in 2020. The [publicly available report](https://moodle.zhaw.ch/pluginfile.php/244189/mod_label/intro/Ratgeber_digitales_Lernen_ZHAW.pdf) included both the results of the data analysis, as well as suggestions for the ZHAW students on succeeding in their long-distance learning beyond the pandemic.
-- Prepared and analysed qualitative data with content analysis (in MaxQDA). Then, wrote a research report based on the aforementioned analysis on the experiences nurses from various nursing institutions have with elderly migrants and what aid they wish for to care better for elderly migrants. 
-- Performed various organisational tasks at the department, including support at two international workshops, several online end-of-the-term-exams and evaluation of student seminary work. 
+- Datensammlung, -aufbereitung, -analyse und -visualisierung (in SPSS). Anschliessende Erstellung eines Forschungsberichts in Zusammenarbeit mit drei weiteren Projektmitgliedern über die oben genannten Daten, die während des ersten COVID-Lockdowns im Jahr 2020 erhoben wurden. Der [öffentlich zugängliche Bericht](https://moodle.zhaw.ch/pluginfile.php/244189/mod_label/intro/Ratgeber_digitales_Lernen_ZHAW.pdf) enthielt sowohl die Ergebnisse der Datenanalyse als auch Anregungen für die Studierenden der ZHAW, wie sie ihr Fernstudium über die Pandemie hinaus erfolgreich gestalten können.
+- Datenaufbereitung und -analyse qualitativer Daten mittels Inhaltsanalyse (in MaxQDA). Anschliessende Erstellung eines Forschungsberichts auf der Grundlage der genannten Analyse über die Erfahrungen, die Pflegepersonal aus verschiedenen Pflegeeinrichtungen mit älteren Migrant:innen machen, und darüber, welche Hilfe sich das Pflegepersonal für eine bessere Pflege der älteren Migrant:innen wünschen würde.
+- Übernahme verschiedener organisatorischer Tätigkeiten in der Fachgruppe, u.a. Unterstützung bei zwei internationalen Workshops, bei mehreren Online-Abschlusstests und bei der Bewertung von studentischen Seminararbeiten.
 
+# Forschungspraktikum
+      
+### Professur für Klinische Psychologie mit Schwerpunkt Psychotherapieforschung, Universität Zürich
 
-# Research Internship
+**(Juni 2018 - März 2019)**
 
+- Datensammlung, -aufbereitung, -analyse und -visualisierung eines längsschnittlichen, klinischen Datensatzes (in SPSS und R Studio) mit depressiven Erwachsenen.
+- Vorbereitung, Visualisierung und Präsentation eines Datenanalyse-Workshops zur inhaltlichen Auswertung von Audioaufnahmen aus dem Forschungsprojekt [TIDe - Telefon- Intervention bei Depression](https://psychologie.uzh.ch/de/bereiche/ hea/klipfor/forschung/abgeschlossene-Forschungsprojekte/TIDe.html).
+- Übernahme diverser organisatorischer Aufgaben in der Abteilung, einschließlich Unterstützung bei einer wissenschaftlichen Konferenz.
 
-### Professorship for Clinical Psychology and Psychotherapy Research, University of Zurich
-**(June 2018 - March 2019)**
+# Psychologisches Praktikum
 
-- Collected, prepared, analysed and visualized a longitudinal, clinical dataset (in SPSS and R Studio).
-- Prepared, visualized and presented a data analysis workshop for assessing the content of audio records from the [TIDe – Telefon-Intervention bei Depression](https://psychologie.uzh.ch/de/bereiche/hea/klipfor/forschung/abgeschlossene-Forschungsprojekte/TIDe.html) research project. 
-- Performed various organisational tasks at the department, including support at a scientific conference.  
+### Medizinisches Zentrum Geissberg, Kloten
+**(Januar 2018 - März 2018)**
 
+- Co-Supervision von Gruppentherapiesitzungen zweimal pro Woche
+- Co-Supervision von wöchentlichem Training zur Stärkung des Selbstvetrauens der Patient:innen 
+- Mehrfache Leitung der wöchentlichen Gruppenentspannungsübungen (z. B. progressive Muskelrelaxation)
+- Durchführung von Tests mit Patienten, Analyse der Ergebnisse und Erstellung von Testberichten.
+- Umsetzung des BASEL-Programms zur Behandlung von Fettleibigkeit in wöchentlichen Einzelsitzungen mit mehreren Patienten.
+- Durchführung einer Expositionstherapie bei einem Patienten mit einer spezifischen Angststörung.
+- Wahrnehmung verschiedener organisatorischer Aufgaben in der Abteilung, einschliesslich Protokollführung, Erstellung von Leitlinien und psychosoziale Unterstützung bei der administrativen Arbeit mit Patienten.
 
-# Psychological Internship
+# Forschungspraktikum
 
-### Medical Centre Geissberg, Kloten
-**(January 2018 - March 2018)**
+### Professur für Entwicklungspsychologie: Erwachsenenalter, Universität Zürich
 
-- Co-supervised group therapy sessions twice a week
-- Co-supervised competence training to increase patients' confidence once week during the internship.
-- Supervised the weekly group relaxation exercise (i.e. progressive muscle relaxation exercises) multiple times as a stand-in during sick leaves.
-- Performed test assessment batteries with patients, analysed the results and prepared test reports.
-- Implemented the BASEL-program for treating obesity in weekly, one-on-one sessions with several patients. 
-- Implemented exposure therapy with a patient with specific anxiety disorder. 
-- Performed various organisational tasks at the department, including minute-taking, creating guidelines and providing psychosocial support within patients' administrative work.  
+**(November 2016 - Februar 2017)**
 
+- Bewertung, Vorbereitung, Analyse und Visualisierung eines großen Datensatzes mit Informationen über die Motivation, das Wohlbefinden, die Persönlichkeit und die Nutzung von Pokémon Go (in SPSS).
+- Korrekturlesen von englischen und deutschen Manuskripten zur Vorbereitung auf die Veröffentlichung.
+- Erledigung verschiedener organisatorischer Aufgaben in der Abteilung.
 
-# Research Internship
+## Ehrenamtliche Tätigkeiten
 
-### Professorship for Developmental Psychology: Adulthood, University of Zurich 
-**(November 2016 - February 2017)**
+# Illustratorin und Editorin
 
-- Assessed, prepared, analysed and visualized a large dataset containing information on people's motivation, well-being, personality and their Pokémon Go usage (in SPSS).  
-- Proof-read English and German manuscripts in preparation for publication. 
-- Performed various organisational tasks at the department. 
-
-
-
-## Volunteer Work
-
-
-# Illustrator and Editor
-
-### aware - Magazine for Psychology, University of Zurich
+### aware - Zeitschrift für Psychologie, Universität Zürich
 
 **(April 2017 - August 2019)**
 
-- Drew original digital illustrations in accordance with articles of my choice for each issue of the [student magazine of psychology](https://aware-psymagazin.ch/) (in Adobe Photoshop). 
-- Proof-read and edited articles as an editor on each issue of the student magazine of psychology.
+- Erstellung von digitalen Originalillustrationen zu Artikeln meiner Wahl für jede Ausgabe der [Studentenzeitschrift für Psychologie](https://aware- psymagazin.ch/) (in Adobe Photoshop).
+- Korrekturlesen und Redigieren von Artikeln als Redakteur für jede Ausgabe der Studentenzeitschrift für Psychologie.
 
-The created illustrations and proof-read, finalized articles are linked here for the [autumn 2017](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_17_9f49a8b480.pdf), [spring 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_18_a4d56e0274.pdf), [autumn 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_18_4a2fb4bc4e.pdf), [spring 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_19_db182f69d5.pdf) and [autumn 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_19_3f85db41c4.pdf) semester issue. 
+Die erstellten Illustrationen und korrekturgelesenen, fertiggestellten Artikel sind hier verlinkt für die [Herbst 2017](https:// d1pdejp0rn9het.cloudfront.net/assets/aware_HS_17_9f49a8b480.pdf), [Frühjahr 2018](https://d1pdejp0rn9het.cloudfront.net/assets/ aware_FS_18_a4d56e0274.pdf), [Herbst 2018](https:// d1pdejp0rn9het.cloudfront.net/assets/aware_HS_18_4a2fb4bc4e.pdf), [Frühjahr 2019](https://d1pdejp0rn9het.cloudfront.net/assets/ aware_FS_19_db182f69d5.pdf) und [Herbst 2019](https:// d1pdejp0rn9het.cloudfront.net/assets/aware_HS_19_3f85db41c4.pdf) Semesterausgabe.
 
+# Vorstandsmitglied
 
-# Board Member
-
-
-### Psychology Student Organization, University of Zurich
+### Fachverein Psychologie, Universität Zürich
 
 **(November 2015 - April 2018)**
 
-### General:
+### Allgemein:
+- Nahm regelmäßig an Organisationstreffen teil, beteiligte sich an Diskussionen über Themen, die die Studentenschaft betrafen und welche Maßnahmen die Studentenorganisation ergreifen würde.
+- Mithilfe bei verschiedenen Aufgaben bei Veranstaltungen von Studentenorganisationen (z. B. Verkauf von Eintrittskarten für Veranstaltungen, Bedienung an der Kasse, Verteilung von Mahlzeiten am Essensstand, Verkauf von Eintrittskarten im Vorfeld der Veranstaltung usw.).
 
-- Regularly attended organisation meetings, participated in discussions for subjects concerning the student body and what actions the student organization would take. 
-- Aided with different tasks during student organization events (i.e., sometimes selling event tickets, sometimes manning the til, sometimes distributing meals at the food stall, sometimes selling tickets prior to the event, etc.).
+### Als Co-Leiterin des Ressorts Information (Oktober 2017 - April 2018):
 
-### As Co-Leader of the Ressort Information (October 2017 - April 2018):
+- Verwaltung der E-Mail-Konten der Studentenorganisation und professionelle Kommunikation mit Personen, die sich mit allgemeinen Anfragen an die Organisation wenden
+- Pflege und Aktualisierung der [Website der Studentenorganisation](https://www.faps.ch/).
 
-- Managed the student organisation mail accounts and for professionally communicated with people contacting the organisation with general requests
-- Maintained and updated the [student organization’s website](https://www.faps.ch/). 
+### Als Co-Leiterin des Ressortmarketings (November 2015 - Oktober 2017):
 
-### As Co-Leader of the Ressort Marketing (November 2015 - October 2017):
-
-- Organized events where invited psychologists from different areas of psychology gave talks and Q&As to psychology students
-- Spread awareness about the student organisation
+- Organisation von Veranstaltungen, bei denen eingeladene Psychologen aus verschiedenen Bereichen der Psychologie Vorträge hielten und Fragen an Psychologiestudenten stellten
+- Verbreitung des Bewusstseins über die Studentenorganisation

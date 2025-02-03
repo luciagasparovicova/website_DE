@@ -1,5 +1,5 @@
 name: "Personal_Website"
-title: Welcome
+title: Willkommen
 theme: theme.css
 description: |
   LG_personal_website
@@ -8,23 +8,23 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Updates"
+    - text: "Aktuelles"
       href: updates.html
       menu: 
-        - text: "Publications & Presentations"
+        - text: "Publikationen & Präsentationen"
           href: publications_presentations.html
-        - text: "Project News"
+        - text: "Projektneuigkeiten"
           href: project_news.html
-    - text: "Professional Experience"
+    - text: "Berufserfahrung"
       href: job.html
       menu: 
-        - text: "Current Employment"
+        - text: "Aktuelle Anstellung"
           href: current_employment.html
-        - text: "Previous Employment"
+        - text: "Frühere Stellen"
           href: previous_employment.html
-        - text: "Professional Skills"
+        - text: "Berufliche Fähigkeiten"
           href: skills.html
-    - text: "Contact"
+    - text: "Kontakt"
       href: contact.html
       
 

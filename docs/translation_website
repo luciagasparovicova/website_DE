@@ -1,0 +1,406 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Text for file "current_employment"
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+title: "Current Employment"
+description: Information on my current employment and its entailing responsibilities. 
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Research Assistant
+---
+
+**Division of Personality and Developmental Psychology, University of Basel** 
+
+**(April 2021 - current)**
+
+### Project Management & Data Collection, Preparation, Analysis
+
+The major focus of my current employment is **project management** and **data analysis** work within the study to revise the _Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)_.\
+\
+My project responsibilities include or have included the following:
+
+- Currently: Analysing the FEEL-KJ study data (in R Studio), wrapping up administrative tasks
+required for definitive study completion and updating the FEEL-KJ test manual.
+ 
+- Completed data collection and preparation of the FEEL-KJ study. This included personally contacting institutions, presenting an age-appropriate presentation of the FEEL-KJ study in front of children and adolescents for study recruitment and answering inquiries regarding the study from institutions and participants. 
+- Managed and coordinated a team of interns and master students who supported recruitement, data collection and preparation for the FEEL-KJ study. 
+- Organized and completed data collection for the FEEL-KJ pilot study to re-standardize and re-validate the FEEL-KJ and analysed the data from the pilot study.
+- Organized and set-up both the FEEL-KJ pilot study and proper study to re-standardize and re-validate the FEEL-KJ from the start of the project, including the literature search, selection of test batteries to include in the study, planning of the study setup and composition of the proposal for the regional ethic’s committee.
+- Managed administrative tasks necessary for study implementation, including procurement and establishment of the physical and digital data management and online survey infrastructure; the latter in conjunction with the faculty's IT team. Furthermore, was responsible for tracking the study expanses, for procuring study participation compensation and for finding, interviewing and hiring interns for the FEEL-KJ-study.  
+
+### Supervision of Masters Students
+
+A minor focus of my current employment further contains **supervision of master students** within the masters project _test development_, which consisted of these responsibilities:
+
+- Supervised and supported master students throughout their master thesis. This included regular meetings to discuss thesis progress, written and oral feedback on thesis progress, as well as evaluation of and report creation on the final version of the master thesis.
+- Co-supervised the course adjoining the masters project along with two other colleagues. This included discussing the course schedule and organizational matters with co-supervisors, planning, preparing and teaching seminary lessons to master students, evaluating homework tasks for aforementioned lessons and giving feedback on master students' presentations.
+
+Ph.D. Student
+---
+
+**Division of Personality and Developmental Psychology, University of Basel** 
+
+**(April 2021 - current)**\
+\
+Simultaneously to my project-work listed above, I'm working on attaining my Ph.D. at the University of Basel. The overarching theme is on children's and adolesecents' emotion regulation of their negative emotions. That is, how children and adolescents deal with their anger, sadness and fear.\
+\
+To eventually attain my Ph.D., I am fulfilling or have fulfilled the subsequent responsibilities:
+
+- Currently: Working on my second manuscript. 
+- Presentation of research at (international) conferences.
+- Writing and publication of scientific articles.
+- Preparation and analysis of various datasets.
+- Investigation of relevant research topics for the overarching theme of my dissertation and formulating relevant research questions as well as hypotheses.
+- Regularly attending workshops/courses for refining relevant technical skills (e.g. specific data analysis methods) or transferable skills (e.g. improve general project management skills).
+ 
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Text for file "previous_employment"
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+title: "Previous Employment and Volunteer Work"
+description: null
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Previous Employment
+
+# Research Assistant
+
+
+### Section for Developmental and Family Psychology, ZHAW Zurich University of Applied Sciences
+**(January 2020 - March 2021)**
+
+- Collected, prepared, analysed and visualized data (in SPSS). Afterwards, wrote a research report in collaboration with three further project members on the aforementioned data that was collected during the first COVID lockdown in 2020. The [publicly available report](https://moodle.zhaw.ch/pluginfile.php/244189/mod_label/intro/Ratgeber_digitales_Lernen_ZHAW.pdf) included both the results of the data analysis, as well as suggestions for the ZHAW students on succeeding in their long-distance learning beyond the pandemic.
+- Prepared and analysed qualitative data with content analysis (in MaxQDA). Then, wrote a research report based on the aforementioned analysis on the experiences nurses from various nursing institutions have with elderly migrants and what aid they wish for to care better for elderly migrants. 
+- Performed various organisational tasks at the department, including support at two international workshops, several online end-of-the-term-exams and evaluation of student seminary work. 
+
+
+# Research Internship
+
+
+### Professorship for Clinical Psychology and Psychotherapy Research, University of Zurich
+**(June 2018 - March 2019)**
+
+- Collected, prepared, analysed and visualized a longitudinal, clinical dataset (in SPSS and R Studio).
+- Prepared, visualized and presented a data analysis workshop for assessing the content of audio records from the [TIDe – Telefon-Intervention bei Depression](https://psychologie.uzh.ch/de/bereiche/hea/klipfor/forschung/abgeschlossene-Forschungsprojekte/TIDe.html) research project. 
+- Performed various organisational tasks at the department, including support at a scientific conference.  
+
+
+# Psychological Internship
+
+### Medical Centre Geissberg, Kloten
+**(January 2018 - March 2018)**
+
+- Co-supervised group therapy sessions twice a week
+- Co-supervised competence training to increase patients' confidence once week during the internship.
+- Supervised the weekly group relaxation exercise (i.e. progressive muscle relaxation exercises) multiple times as a stand-in during sick leaves.
+- Performed test assessment batteries with patients, analysed the results and prepared test reports.
+- Implemented the BASEL-program for treating obesity in weekly, one-on-one sessions with several patients. 
+- Implemented exposure therapy with a patient with specific anxiety disorder. 
+- Performed various organisational tasks at the department, including minute-taking, creating guidelines and providing psychosocial support within patients' administrative work.  
+
+
+# Research Internship
+
+### Professorship for Developmental Psychology: Adulthood, University of Zurich 
+**(November 2016 - February 2017)**
+
+- Assessed, prepared, analysed and visualized a large dataset containing information on people's motivation, well-being, personality and their Pokémon Go usage (in SPSS).  
+- Proof-read English and German manuscripts in preparation for publication. 
+- Performed various organisational tasks at the department. 
+
+
+
+## Volunteer Work
+
+
+# Illustrator and Editor
+
+### aware - Magazine for Psychology, University of Zurich
+
+**(April 2017 - August 2019)**
+
+- Drew original digital illustrations in accordance with articles of my choice for each issue of the [student magazine of psychology](https://aware-psymagazin.ch/) (in Adobe Photoshop). 
+- Proof-read and edited articles as an editor on each issue of the student magazine of psychology.
+
+The created illustrations and proof-read, finalized articles are linked here for the [autumn 2017](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_17_9f49a8b480.pdf), [spring 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_18_a4d56e0274.pdf), [autumn 2018](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_18_4a2fb4bc4e.pdf), [spring 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_FS_19_db182f69d5.pdf) and [autumn 2019](https://d1pdejp0rn9het.cloudfront.net/assets/aware_HS_19_3f85db41c4.pdf) semester issue. 
+
+
+# Board Member
+
+
+### Psychology Student Organization, University of Zurich
+
+**(November 2015 - April 2018)**
+
+### General:
+
+- Regularly attended organisation meetings, participated in discussions for subjects concerning the student body and what actions the student organization would take. 
+- Aided with different tasks during student organization events (i.e., sometimes selling event tickets, sometimes manning the til, sometimes distributing meals at the food stall, sometimes selling tickets prior to the event, etc.).
+
+### As Co-Leader of the Ressort Information (October 2017 - April 2018):
+
+- Managed the student organisation mail accounts and for professionally communicated with people contacting the organisation with general requests
+- Maintained and updated the [student organization’s website](https://www.faps.ch/). 
+
+### As Co-Leader of the Ressort Marketing (November 2015 - October 2017):
+
+- Organized events where invited psychologists from different areas of psychology gave talks and Q&As to psychology students
+- Spread awareness about the student organisation
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Text for the file "project_news"
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+title: "Project News"
+description: Updates on the project I'm currently managing.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Study to Revise the Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)
+---
+
+### General Information
+
+
+
+The _**Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)**_
+is a questionnaire that is utilized in school and clinical psychology to assess how children and adolescents aged 10 - 19 years regulate their anger, sadness and fear. Children and adolescents can deal with these emotions using adaptive or maladaptive strategies. Frequent use of the latter is disadvantageous for children's and adolescents' well-being, whereas frequent use of adaptive emotion regulation strategies is beneficial for their well-being. Therefore, applied psychologist want to improve the use of adaptive and decrease the use of maladaptive emotion regulation strategies in help-seeking children and adolescents. The FEEL-KJ is a means for applied psychologists to gain further insight into a help-seeking child's or adolescents' use of adaptive and maladaptive emotion regulation strategies. 
+
+
+The current study's aim, lead by Prof. Dr. Alexander Grob and managed by me, is to collect data to psychometrically examine and revise the FEEL-KJ. This will ensure that assessments resulting from the implementation of the FEEL-KJ are reliable and useful for applied psychologists helping children and adolescents, as well as researchers investigating the subject of emotion regulation in children and adolescents. 
+
+
+You can find more detailed information on the **[official FEEL-KJ study website](https://psychologie.unibas.ch/de/fakultaet/abteilungen/entwicklungs-und-persoenlichkeitspsychologie/forschung/feel-kj/)** .
+
+
+
+
+
+
+
+### Updates on the FEEL-KJ Study
+
+
+
+We have completed data collection and are completing administrative and archival tasks for 
+study termination. Moreover, the study data is currently being analysed. 
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Text for the file "publications_presentations"
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+title: "Publications & Presentations"
+description: An overview of my current publications and presentations, listed in APA 7th format.   
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+Publications
+---
+
+Gasparovicova, L., Meachon, E. J., & Grob, A. (2025). *European Questionnaires Assessing Emotion Regulation in Children and Adolescents: A Narrative Review* **[manuscript in preparation]**. Division for Personality and Developmental Psychology, University of Basel. 
+
+Gasparovicova, L., Steppan, M., & Grob, A. (2025). *Executive Functioning as a Moderator between Emotion Regulation and Problem Behaviour in Typically-Developing Children and Adolescents* **[manuscript in preparation]**. Division for Personality and Developmental Psychology, University of Basel. 
+
+Gasparovicova, L. & Grob, A. (2025). *Revision of the Fragebogen zur Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ): Psychometric Qualities of the Fragebogen zur Emotionsregulation bei Kindern und Jugendlichen - 2 (FEEL-KJ - 2)* **[manuscript in preparation]**. Division for Personality and Developmental Psychology, University of Basel. 
+
+Schwarz, B., Härri, C., Gasparovicova, L. & von Arx, C. (2020). *Ratgeber zum digitalen Lernen
+Erfolgreich Studieren im Online-Unterricht.* Zurich University of Applied Sciences. https://moodle.zhaw.ch/pluginfile.php/244189/mod_label/intro/Ratgeber_digitales_Lernen_ZHAW.pdf
+
+
+
+
+Presentations & Posters
+---
+
+Gasparovicova, L., Steppan, M., & Grob, A. (2024, September). *Executive Functioning as a Moderator between Emotion Regulation and Problem Behaviour in Typically-Developing Children and Adolescents.* Poster at the 4th Boost and Exchange Academic Conference (BEACON), Basel, Switzerland.
+
+Gasparovicova, L., Meachon, E. J., & Grob, A. (2024, July). *Questionnaires Assessing Emotion Regulation in Children and Adolescents Validated in Europe: Review.* Presentation at the 45th International School Psychology Association (ISPA) Conference, Riga, Latvia. 
+
+Gasparovicova, L. & Grob, A. (2023, September). *Preliminary Analyses of the Standardisation Sample to Re-Standardize and Re-Validate the Fragebogen zur Erhebung der Emotionsregulation für Kinder und Jugendliche (FEEL-KJ)*. Poster at the 17th Arbeitstagung der Fachgruppe Differentielle Psychologie, Persönlichkeitspsychologie und Psychologische Diagnostik (DPPD) of the German Society of Psychology Conference, Salzburg, Austria.
+
+Gasparovicova, L. & Grob, A. (2022, September). *Conceptual Adjustment and Re-Validation of the Questionnaire for Assessment of Emotion Regulation in Children and Adolescents (German: Fragebogen zur Erhebung von Emotionsregulation bei Kindern und Jugendlichen, FEEL-KJ): A pilot study.* Poster at the 17th Conference of the Swiss Psychological Society (SPS SGP SSP), Zurich, Switzerland.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Text for the file "skills"
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+title: "Application Proficiencies and Transferable Skills"
+description: A compact overview of both proficiencies and transferable skills in the use of specific applications that I have demonstrated in past or current employment/volunteer work. 
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Application Proficiency
+---
+
+# RStudio
+
+- Data Preparation/Cleaning
+- Data Visualization
+- Data Analysis, such as:
+  - Evaluation of psychometric properties of utilized measurement tools, such as reliability analyses (e.g. Cronbach's Alpha, Omega Hierarchical, etc.) and analyses on underlying structures (e.g. principal components analysis [PCA], confirmatory factor analysis [CFA], Exploratory Structural Equation Modelling-within-CFA [ESEM-within-CFA])
+  - Missing data analysis and multiple imputation (e.g. Full-Information Maximum Likelihood 
+  Estimation [FIML], Multiple Imputation Chain Equation [MICE])
+  - Computation of descriptive statistics
+  - Computation of inferential statistics
+  - Analysis of group differences (t-Test, ANOVA)
+  - Moderator analysis with Structural Equation Modelling (SEM)
+  - Analysis of nested data (multilevel analysis of multiple regressions)
+
+# IBM SPSS Statistics
+
+- Data Preparation/Cleaning
+- Data Visualization
+- Data Analysis, such as:
+  - Evaluation of psychometric properties of utilized measurement tools such as reliability analyses (i.e. intra-class coefficients, Cronbach's Alpha)
+  - Computation of factor analysis (i.e. PCA, EFA)
+  - Computation of descriptive statistics
+  - Computation of inferential statistics 
+  - Analysis of group mean differences (t-Test, ANOVA)
+  - Multiple hierachical mediation and moderation analyses (with the PROCESS Macro)
+
+# G*Power
+
+- Computation of a-priori power analyses for sample size requirement for planned analyses 
+
+# LimeSurvey
+
+- Configuration and managment of online-surveys in accordance with current Swiss 
+data protection laws and ethic guidelines by Swiss ethics committees (Swissethics) 
+
+# Adobe Photoshop
+
+- Illustration of original images for reports, presentations, posters and articles
+- Post-Production touch-ups on photos
+
+# Microsoft Office Applications
+
+- **Microsoft Word**:\
+Writing various templates, reports and manuscripts
+- **Microsoft Excel**:\
+Tracking study progress, preliminary data cleaning and simple data analysis
+- **Microsoft PowerPoint**:\
+Preparing presentation slides and scientific posters
+- **Microsoft Outlook**:\
+Tracking, composing and organizing e-mails
+
+# Microsoft Teams, Zoom and Slack
+
+- Communication, organization of meetings and file sharing on Microsoft Teams, Zoom and Slack
+
+
+Transferable Skills
+---
+
+# Data Collection and Analysis
+
+- Experience in data collection (setting and managing the physical and digital infrastructure, contacting institutions, recruiting participants) and evaluation (rating collected data according to evaluation schemes) of data describing human behaviour 
+- Experience in cleaning, preparing and analysing a range of different datasets (e.g., sample sizes between 22 to 2000 participants, typically-developing as well as clinical samples, data of minors and adults, analysis of qualitative audio- and interview-data, as well as quantitative survey and psychometric test data) and experience with different software for statistical analyses (IBM SPSS, R Studio) to analyze and visualize data describing human behaviour 
+
+# Data Management
+
+- Experience in setting up and maintaining a comprehensible and easy-to-navigate folder and file structure for an entire project
+- Experience in communicating with and implementing the responsible IT teams' data protection measures
+
+# Project Organisation and Managment
+
+- Experience in preparing a project (i.e. thorough investigation of required resources and knowledge, planning and organization of necessary set-up of project plan, project schedule, etc.), launching and managing a project and its project members (i.e. tracking project progress, hiring, managing and supporting project members, flexibly adapting to and overcoming challenges during project implementation) as well as proper project termination (i.e. analysing project data, compiling final project reports, archiving project material and data) 
+- Creation and submission of ethics report of planned study to the responsible ethics committee to ensure that projects adhere to Swiss data protection laws and ethic guidelines
+- Finding, interviewing and hiring interns for project work
+- Coordinating a small team of people with a varying range of work quota (i.e. 10% - 50%) and varying schedules, which included:
+    - maintaining good, frequent communication and exchange of relevant information between project members
+    - training interns and master students for project work
+    - supervising interns' and master students' project work
+    - providing practical and moral support to interns and master students whenever necessary 
+    - organizing regular project member meetings to keep all project members updated and to proactively deal with current or anticipated challenges during the ongoing project process 
+    
+- Working within a project team as a project member, which included:
+  - contributing to a good working environment within the project team with good and friendly communication
+  - completing tasks according to my supervisor's specifications, as well as
+  actively inquiring about task specifics or revising task results according to supervisor's or project member's feedback whenever required
+  - collaborating and brain-storming together with other project members to tackle larger tasks requiring the entire project team and communicating effectively for successful task completion
+  - communicating professionally and constructively with project members in conflict situations
+
+# Report Writing
+
+- Experience in writing and revising (scientific) reports in English and German
+- Experience in publishing English scientific articles and German reports
+
+
+# Proof-Reading/Editoral Work
+
+- Experience in proof-reading and editing texts (i.e. articles, reports, theses, manuscripts) in both English and German regarding grammatical accuracy, language style and formal
+adherence to specific citation formats (e.g. MLA 8th edition, APA 6th and 7th edition)
+- Experience in providing constructive feedback regarding revision suggestions stemming from aforementioned editorial work
+
+# Public Speaking
+
+- Experience in public speaking and presenting within a variety of contexts (conference presentation, teaching a lesson, study presentation, collaboration invitation) to a variety of audiences (researchers, students, school-graders, mental health professionals) of diverse sizes (5 to 200 people) with varying linguistic complexity (formal, scientific language vs. simple colloquial speech) and presentation duration (3 to 45 minutes) 
+
+# Language Skills
+
+- **Standard German**:\
+Native-speaker level proficiency in speaking and writing\
+(attended
+entire school life in Swiss German schools)
+- **Swiss German**:\
+Native-speaker level proficiency in comprehension and speaking\
+(raised in German part of Switzerland)
+- **English**:\
+High-proficiency level in speaking and writing\
+(minor Bachelor of Arts Degree in English Language and Literature Studies,
+Home-Stay Abroad in England)
+- **Slovak**:\
+Native-speaker level proficiency in comprehension and speaking\
+(Slovak native-speaker)
+- **French**:\
+High-proficiency level regarding comprehension, mid-proficiency level in speaking
+and writing\
+(obligatory French classes in school from 5th grade/age 10 on)
+- **Latin**:\
+Mid-proficiency level in comprehension and writing\
+(classes in school from 7th grade/age 12 until 12th grade/age 18 on)
+- **Czech**:\
+High-proficiency level regarding comprehension
+

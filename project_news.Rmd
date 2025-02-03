@@ -1,37 +1,29 @@
 ---
-title: "Project News"
-description: Updates on the project I'm currently managing.
+title: "Projektstand"
+description: Aktuelle Informationen über das Projekt, das ich derzeit betreue.
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Study to Revise the Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)
+Studie zur Überarbeitung des Fragebogens zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)
 ---
 
-### General Information
+### Allgemeine Informationen
+Der _**Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)**_
+ist ein Fragebogen, der in der Schul- und klinischen Psychologie eingesetzt
+wird, um zu beurteilen, wie Kinder und Jugendliche im Alter von 10 bis 19
+Jahren ihre Wut, Trauer und Angst regulieren. Kinder und Jugendliche
+können mit diesen negativen Gefühlen adaptiv oder maladaptiv umgehen.
 
+Die häufige Anwendung maladaptiver Emotionsregulationsstrategien ist für das Wohlbefinden von Kindern und Jugendlichen längerfristig schlecht, während die häufige Anwendung adaptiver
+Emotionsregulierungsstrategien für ihr Wohlbefinden förderlich ist. Daher möchten angewandte Psycholog:innen die Verwendung adaptiver und die Verwendung maladaptiver Emotionsregulationsstrategien bei hilfsbedürftigen Kindern und Jugendlichen verbessern bzw. verringern. Der FEEL-KJ ist ein Fragebogen für angewandte Psycholog:innen, um weitere Einblicke in die Verwendung adaptiver und maladaptiver Emotionsregulationsstrategien von hilfsbedürftigen Kindern und Jugendlichen zu gewinnen.
 
+Ziel der aktuellen Studie, die von Prof. Dr. Alexander Grob geleitet und von mir betreut wird, ist die Erhebung von Daten zur psychometrischen Überprüfung und Überarbeitung des FEEL-KJ. Damit soll sichergestellt werden, dass die aus der Anwendung des FEEL-KJ resultierenden Bewertungen zuverlässig und nützlich sind für Angewandte Psycholog:innen, die Kinder und Jugendliche unterstützen möchten, sowie Forscher:innen, die sich mit dem Thema der Emotionsregulierung bei Kindern und Jugendlichen beschäftigen.
 
-The _**Fragebogen zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ)**_
-is a questionnaire that is utilized in school and clinical psychology to assess how children and adolescents aged 10 - 19 years regulate their anger, sadness and fear. Children and adolescents can deal with these emotions using adaptive or maladaptive strategies. Frequent use of the latter is disadvantageous for children's and adolescents' well-being, whereas frequent use of adaptive emotion regulation strategies is beneficial for their well-being. Therefore, applied psychologist want to improve the use of adaptive and decrease the use of maladaptive emotion regulation strategies in help-seeking children and adolescents. The FEEL-KJ is a means for applied psychologists to gain further insight into a help-seeking child's or adolescents' use of adaptive and maladaptive emotion regulation strategies. 
+Ausführlichere Informationen finden Sie auf der **[offiziellen Website der FEEL-KJ-Studie](https://psychologie.unibas.ch/de/fakultaet/abteilungen/entwicklungs-und-persoenlichkeitspsychologie/forschung/feel-kj/)** .
 
+### Updates zur FEEL-KJ-Studie
 
-The current study's aim, lead by Prof. Dr. Alexander Grob and managed by me, is to collect data to psychometrically examine and revise the FEEL-KJ. This will ensure that assessments resulting from the implementation of the FEEL-KJ are reliable and useful for applied psychologists helping children and adolescents, as well as researchers investigating the subject of emotion regulation in children and adolescents. 
-
-
-You can find more detailed information on the **[official FEEL-KJ study website](https://psychologie.unibas.ch/de/fakultaet/abteilungen/entwicklungs-und-persoenlichkeitspsychologie/forschung/feel-kj/)** .
-
-
-
-
-
-
-
-### Updates on the FEEL-KJ Study
-
-
-
-We have completed data collection and are completing administrative and archival tasks for 
-study termination. Moreover, the study data is currently being analysed. 
+Wir haben die Datenerhebung abgeschlossen und erledigen derzeit Verwaltungs- und Archivierungsaufgaben zur planmässigen Beendigung der Studie. Ausserdem werden die Studiendaten derzeit analysiert. 

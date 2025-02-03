@@ -1,5 +1,5 @@
 ---
-title: "Contact Information"
+title: "Kontaktinformationen"
 description: 
   
 ---
@@ -8,7 +8,7 @@ description:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### E-Mail:
+### E-Mail-Adresse:
 
 lucia.gasparovicova@unibas.ch
 
