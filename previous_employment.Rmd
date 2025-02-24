@@ -65,6 +65,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Die erstellten Illustrationen und korrekturgelesenen, fertiggestellten Artikel sind hier verlinkt für die [Herbst 2017](https:// d1pdejp0rn9het.cloudfront.net/assets/aware_HS_17_9f49a8b480.pdf), [Frühjahr 2018](https://d1pdejp0rn9het.cloudfront.net/assets/ aware_FS_18_a4d56e0274.pdf), [Herbst 2018](https:// d1pdejp0rn9het.cloudfront.net/assets/aware_HS_18_4a2fb4bc4e.pdf), [Frühjahr 2019](https://d1pdejp0rn9het.cloudfront.net/assets/ aware_FS_19_db182f69d5.pdf) und [Herbst 2019](https:// d1pdejp0rn9het.cloudfront.net/assets/aware_HS_19_3f85db41c4.pdf) Semesterausgabe.
 
+# Studierendenvertretung
+
+### Berufungsskommission zweier Psychologieprofessuren für Entwicklungspsychologie im Kindes- und Jugendalters, Universität Zürich
+
+**(August 2017 – August 2019)**
+
+- Vertretung der Interessen der Psychologiestudierenden bei der Auswahl geeigneter Kandidat:innen für die Professur. 
+
 # Vorstandsmitglied
 
 ### Fachverein Psychologie, Universität Zürich

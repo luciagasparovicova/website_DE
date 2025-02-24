@@ -20,10 +20,13 @@ Wissenschaftliche Mitarbeiterin
 Der Schwerpunkt meiner derzeitigen Tätigkeit liegt im **Projektmanagement** und in der **Datenanalyse** im Rahmen der Studie zur Überarbeitung des Fragebogens zur Erhebung der Emotionsregulation bei Kindern und Jugendlichen (FEEL-KJ).\
 \
 Dies beinhaltet oder beinhaltete folgende Projektaufgaben:
-- Aktuell: Analyse der Daten der FEEL-KJ-Studie (in R Studio), Erledigung administrativer Aufgaben
-die für den endgültigen Abschluss der Studie und die Aktualisierung des FEEL-KJ-Testmanuals erforderlich sind.
+
+- Aktuell: Analyse der Daten der FEEL-KJ-Studie (in R Studio), sowie Erledigung administrativer Aufgaben die für den endgültigen Abschluss der Studie und die Aktualisierung des FEEL-KJ-Testmanuals erforderlich sind. Parallel dazu wird das FEEL-KJ-2 Testmanual verfasst. 
+
 - Abschluss der Datenerhebung und -aufbereitung der FEEL-KJ-Studie. Dazu gehörte die persönliche Kontaktaufnahme mit relevanten Institutionen, die altersgerechte Präsentation der Studieninformationen vor Kindern und Jugendlichen zur Rekrutierung für die FEEL-KJ-Studie und die Beantwortung von Anfragen zur Studie von Institutionen und Teilnehmer:innen.
+
 - Leitung und Koordination eines Teams von Praktikant:innen und Masterstudierenden, welche die Rekrutierung, Datenerfassung und -aufbereitung der FEEL-KJ-Studie unterstützten.
+
 - Organisation und Abschluss der Datenerhebung für die FEEL-KJ-Pilotstudie zur Neunormierung und -Validierung des FEEL-KJs, sowie Datenaufbereitung und -analyse der Daten aus der Pilotstudie.
    
 - Aufbau und Organisation sowohl der FEEL-KJ-Pilotstudie als auch der eigentlichen Studie zur Neunormierung und -Validierung des FEEL-KJs von Projektbeginn an, einschließlich der Literaturrecherche, der Auswahl der in die Studie einzubeziehenden Testbatterien, der Planung des Studienablaufes und der Ausarbeitung des Ethikantrages für die regionale Ethikkommission.
