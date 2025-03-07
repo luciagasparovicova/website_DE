@@ -21,14 +21,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 <center>
-![*Lucia Gasparovicova, M. Sc.*](website_images/Profile_Image_Round_Small.png){width=35%}
+![*Lucia Gasparovicova, M. Sc.*](website_images/Profile_Picture_glazed_round.png){width=35%}
 <center>
 
-Ich bin **Lucia Gasparovicova** und ich arbeite aktuell als **Wissenschaftliche Assistentin / Doktorandin im Bereich der Emotionsregulation** an der Abteilung für Persönlichkeits- und Entwicklungspsychologie an der Universität Basel.
+Ich bin **Lucia Gasparovicova** und ich arbeite aktuell als **Wissenschaftliche Assistentin / Doktorandin** im Bereich der Emotionsregulation an der Abteilung für Persönlichkeits- und Entwicklungspsychologie an der Universität Basel.
 
 Abgesehen von meinen täglichen **Forschungs- und datenanalytischen Tätigkeiten**, in denen ich meine Neugier ausleben kann, geniesse ich es ebenfalls, in meiner Freizeit **digitale Werke zu zeichnen**, wie die hier sichtbare Illustration. 
 
-Auf die eine oder andere Weise, haben Sie meine persönliche Webseite gefunden. Ich hoffe, dass Sie die Informationen, die Sie suchen, finden können und dass Sie hier eine **schöne Zeit** verbringen! 
+Auf die eine oder andere Weise, haben Sie meine persönliche Webseite gefunden. Ich hoffe, dass Sie die Informationen, die Sie suchen, finden können. 
 
 
 ```{css}

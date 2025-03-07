@@ -48,9 +48,9 @@ Datenschutzgesetze und ethische Richtlinien der Schweizer Ethikkommissionen (Swi
 - **Microsoft Word**:\
 Schreiben verschiedener Vorlagen, Berichte und Manuskripte
 - **Microsoft Excel**:\
-Verfolgung des Studienfortschritts, vorläufige Datenbereinigung und einfache Datenanalyse
+Verfolgung des Studienfortschritts, vorläufige Datenbereinigung, sowie einfache Datenanalysen und -visualisierung
 - **Microsoft PowerPoint**:\
-Vorbereitung von Präsentationsfolien und wissenschaftlichen Postern
+Vorbereitung von Grafiken, Präsentationsfolien und wissenschaftlichen Postern
 - **Microsoft Outlook**:\
 Verfolgen, Verfassen und Organisieren von E-
 Mails
